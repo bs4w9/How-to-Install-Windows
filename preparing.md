@@ -4,7 +4,7 @@
 - Most USB storage devices will work
   - Storage device must be **3GB** or greater
 
-##Creating Bootable USB Drive
+## Creating Bootable USB Drive
 1. Formatting USB drive
   - Plug usb drive into your computer
   - Right click **Start** and choose **Disk Management**
