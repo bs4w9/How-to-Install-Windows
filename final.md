@@ -14,7 +14,7 @@ Now that you have installed Windows 10 there are a few more things that need to 
 
 #### 2. Install Programs
 - I recommend using [Ninite](ninite.com) to install most of your software
-  -Ninite let's you choose from a lot of popular programs and adds them all to one installer
+  - Ninite let's you choose from a lot of popular programs and adds them all to one installer
 - You will have to install all other programs you want separately if they are not included in Ninite
 
 #### 3. Enjoy your fresh install of Windows 10
