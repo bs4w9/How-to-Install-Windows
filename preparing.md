@@ -17,8 +17,7 @@
 3. Run Download tool
 
 4. Using Download tool
-  - Accept End User Agreement
-    - Click **Accept**
+  - Read **End User Agreement** and Click **Accept**
   - Choose **Create Installation Media** and click **Next**
   - Decide what **Language**, **Edition**, and **Architecture** you want and click **Next**
   - Choose **USB Flash Drive** then click **Next**
