@@ -5,5 +5,5 @@
 ### Steps
 - [Preparing USB Drive](preparing.md)
 - [Installing Windows](installing.md)
-- Final Setup
+- [Final Setup](final.md)
 
