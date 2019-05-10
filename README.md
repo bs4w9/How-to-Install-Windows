@@ -3,7 +3,7 @@
 ***This guide will mostly cover Windows 10 but installing Windows 7 and 8.1 is very similar***
 
 ### Steps
-- Preparing USB Drive
+- [Preparing USB Drive](preparing.md)
 - Installing Windows
 - Final Setup
 
