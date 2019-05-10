@@ -17,7 +17,7 @@ Now that you have installed Windows 10 there are a few more things that need to 
   - Ninite let's you choose from a lot of popular programs and adds them all to one installer
 - You will have to install all other programs you want separately if they are not included in Ninite
 
-#### 3. Enjoy your fresh install of Windows 10
+#### 3. Enjoy your new PC
 
 
 [Back to Main Page](README.md)
