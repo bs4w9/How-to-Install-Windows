@@ -4,6 +4,6 @@
 
 ### Steps
 - [Preparing USB Drive](preparing.md)
-- Installing Windows
+- [Installing Windows](installing.md)
 - Final Setup
 
