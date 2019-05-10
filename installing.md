@@ -29,6 +29,7 @@
   - Read through each option and click **Yes** or **No** then click **Accept** for each
 - Wait for it to load and get into windows
 
+[Move to Step 3](final.md)
 
 [Back to Main Page](README.md)
 
