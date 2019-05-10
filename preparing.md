@@ -25,5 +25,7 @@
   - Wait for it to load then **Eject** your USB drive when it is complete
   
   
+[Move to Step 2](installing.md)
+
 [Back to Main Page](README.md)
   
