@@ -9,7 +9,7 @@
 ## Installation Process
 - You will need to purchase a [Windows 10 Product Key](https://www.microsoft.com/en-us/p/windows-10-home/d76qx4bznwk4?activetab=pivot%3aoverviewtab) if you don't already own one
 #### 1. Installing Windows
-- Choose **Language* and **Time Zone** then click **Next**
+- Choose **Language** and **Time Zone** then click **Next**
 - Click **Install Now**
 - Input **Windows Product Key** and click **Next**
 - Read **License Terms** check **Accept** and click **Next**
