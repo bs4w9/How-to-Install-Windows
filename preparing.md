@@ -21,7 +21,7 @@
   - Choose **Create Installation Media** and click **Next**
   - Decide what **Language**, **Edition**, and **Architecture** you want and click **Next**
   - Choose **USB Flash Drive** then click **Next**
-  - Choose your USB drive and click **Next**
+  - Click on your USB drive and click **Next**
   - Wait for it to load then eject your USB drive when it is complete
   
   
